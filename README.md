@@ -8,4 +8,4 @@ Add your favourite Bands with their Albums and Songs.
 
 folders and files
 ----------------------------------------------------------
-music.sql - exportul bazei de date initiale
+music.sql - the export of the initial database
